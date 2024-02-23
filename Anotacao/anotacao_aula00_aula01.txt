@@ -1,0 +1,54 @@
+Anotações Aula 00 + Aula 01
+
+
+BOAS PRATICAS
+//boas praticas: cuidar da identação do codigo(os tabs depois das chaves de if else, chaves, parenteses etc )
+//boas praticas: quando fazer diferenciação, é recomendado ver se é igual primeiro e talvez no else usar os != !==
+//sem caractere especial nos nomes de pastas e arqv
+//sem espaco nos nomes de pastas e arqv
+//sem letra maiuscula nos nomes de pastas e arqv
+
+
+INTRODUÇÃO AO PHP
+
+//variavel comeca com $
+
+//iniciando uma var: = 0;
+//string entre ''(cpf, n°, idade)
+//String com S maiusculo
+//no PHP nao precisa declarar float, int, string etc(//tipagem dinamica)
+
+
+
+OPERADORES
+
+//operadores logicos 
+//OU = (OR ou || )
+
+// E ( AND ou &&)
+
+
+
+//= atribuição
+//== ve se o numero é igual
+//=== ele ve se o tipo é igual
+// != diferente
+// !==
+
+
+VAR_DUMP
+
+//var_dump imprime o conteudo de uma variavel
+//O tipo da variável (por exemplo, "string", "integer", "array", "object", etc.).
+//O valor da variável.
+
+//Se a variável é um array, também mostra o número de elementos e seus índices e valores.
+
+
+Exemplo de utilização prática do VAR_DUMP
+
+Suponha que você tenha um formulário HTML que envia dados para um script PHP para processamento.
+ Você recebe os dados do formulário no script PHP e deseja verificar o conteúdo desses dados para garantir
+ que estejam corretos antes de continuar processando-os. Você pode usar var_dump() para exibir o conteúdo dos 
+dados recebidos.
+ O var_dump() é uma ferramenta útil para depurar e entender o conteúdo de variáveis em PHP durante o desenvolvimento de scripts.
