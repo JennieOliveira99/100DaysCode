@@ -21,5 +21,5 @@ Consiste em estudar programação durante 100 dias sem pular nenhum dia.
 
 <h2>🌸Jennyfer Alvim</h2> 
 
-![eu](https://github.com/JennieOliveira99/SimulatorGame/assets/117695086/19f9ea17-6846-42d8-810d-26f56fc27324)
+
 
