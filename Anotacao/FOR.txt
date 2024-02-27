@@ -1,0 +1,10 @@
+for (inicialização; condição de continuação; incremento/decremento) {
+    // código a ser repetido
+}
+
+Inicialização: Neste bloco, define/ inicializa a variável de controle do loop. Isso é feito apenas uma vez, antes do loop começar. Por exemplo: $i = 1;
+
+Condição de Continuação: Esta é a condição que determina se o loop deve continuar ou não. Enquanto esta condição for verdadeira, o loop continuará sendo executado. 
+Se a condição for falsa, o loop terminará. Por exemplo: $i <= 10; (isso significa que o loop continuará enquanto $i for menor ou igual a 10).
+
+Incremento/Decremento: Este bloco é usado para aumentar ou diminuir o valor da variável de controle a cada iteração do loop. Ele é executado após cada iteração do loop. Por exemplo: $i++ (isso incrementa o valor de $i em 1 após cada iteração).

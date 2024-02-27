@@ -1,0 +1,40 @@
+Operadores Aritméticos:
+
++ : Adição
+- : Subtração
+* : Multiplicação
+/ : Divisão
+% : Resto da divisão (módulo)
+** : Exponenciação (disponível no PHP 5.6+)
+Operadores de Comparação:
+
+== : Igual a
+=== : Igual a (igualdade estrita, verifica também o tipo)
+!= ou <> : Diferente de
+!== : Diferente de (diferença estrita)
+< : Menor que
+> : Maior que
+<= : Menor ou igual a
+>= : Maior ou igual a
+Operadores Lógicos:
+
+&& ou and : E lógico
+|| ou or : OU lógico
+! ou not : NÃO lógico
+Operadores de Atribuição:
+
+= : Atribuição simples
++= : Adição e atribuição
+-= : Subtração e atribuição
+*= : Multiplicação e atribuição
+/= : Divisão e atribuição
+%= : Módulo e atribuição (resto)
+Operadores de Incremento e Decremento:
+
+++ : Incremento
+-- : Decremento
+Outros Operadores:
+
+. : Concatenação de strings
+?: : Operador ternário (condicional)
+?? : Coalescência nula (disponível no PHP 7+)

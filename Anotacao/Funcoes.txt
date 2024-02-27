@@ -1,0 +1,4 @@
+FUNCOES PHP
+
+Gerar n° aleatorio
+rand()
