@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Formulário</title>
+</head>
+<body>
+    <main>
+     
+        <div class="container-fluid">
+            <row>
+                <header>
+                   <h1>Calculo de Notas</h1> 
+                </header>
+                <section>
+                    <form action="cad.php" method="get">
+                        <label for="nome">Insira a 1° nota</label>
+                        <input type="number" name="f_nota1" min="0" max="10" step="0.1">
+
+                        <label for="nome">Insira a 2° nota </label>
+                        <input type="number" name="f_nota2" min="0" max="10" step="0.1">
+
+                        <label for="nome">Insira a 3° nota</label>
+                        <input type="number" name="f_nota3" min="0" max="10" step="0.1">
+                     
+
+                        <input type="submit" value="ENVIAR">
+                      
+                    </form>
+                </section>
+            </row>
+        </div>
+    </main>
+</body>
+</html>
+
